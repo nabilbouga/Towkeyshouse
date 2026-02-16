@@ -5,8 +5,7 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
    output: "export",
-    basePath: "/Towkeyshouse",
-    assetPrefix: "/Towkeyshouse",
+   
   images: {
     unoptimized: true,
   },
