@@ -42,9 +42,9 @@ export function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm">
-              <li><p>+34 600 000 000</p></li>
-              <li><p>info@towkeyeshomes.com</p></li>
-              <li><p>Málaga, Spain</p></li>
+              <li><p>+34 614 246 575</p></li>
+              <li><p>Sales@twokeyshomes.com</p></li>
+              <li><p>Málaga,Merbella Spain</p></li>
             </ul>
           </div>
         </div>
@@ -55,7 +55,7 @@ export function Footer() {
             {/* Social Links */}
             <div className="flex items-center gap-6">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/twokeyshomes?igsh=dnlrdTlybjhvMmZ2&utm_source=qr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary transition-colors"
@@ -63,7 +63,7 @@ export function Footer() {
                 <Instagram className="w-6 h-6" />
               </a>
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/share/18PYhKvy2P/?mibextid=wwXIfr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary transition-colors"
@@ -87,7 +87,7 @@ export function Footer() {
                 <Twitter className="w-6 h-6" />
               </a>
               <a
-                href="https://wa.me/34600000000"
+                href="https://wa.me/+34614246575"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary transition-colors"
@@ -98,7 +98,7 @@ export function Footer() {
 
             {/* WhatsApp CTA */}
             <a
-              href="https://wa.me/34600000000"
+              href="https://wa.me/+34614246575"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-primary text-primary-foreground px-6 py-3 rounded-lg hover:opacity-90 transition-opacity font-semibold flex items-center gap-2"

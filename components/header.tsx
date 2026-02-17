@@ -97,7 +97,7 @@ export function Header() {
               Services
             </Link>
             <a
-              href="https://wa.me/34600000000"
+              href="https://wa.me/+34614246575"
               target="_blank"
               rel="noopener noreferrer"
               className="block bg-primary text-primary-foreground px-6 py-2 rounded-lg hover:opacity-90 transition-opacity text-center"

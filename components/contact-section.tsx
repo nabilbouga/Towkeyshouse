@@ -16,24 +16,24 @@ export function ContactSection() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           {/* WhatsApp */}
           <a
-            href="https://wa.me/34600000000"
+            href="https://wa.me/+34614246575"
             target="_blank"
             rel="noopener noreferrer"
             className="p-8 bg-secondary-foreground/10 hover:bg-primary hover:text-primary-foreground rounded-lg transition-all duration-300 group"
           >
             <MessageCircle className="w-8 h-8 mb-4 group-hover:scale-110 transition-transform" />
             <h3 className="text-xl font-semibold mb-2">WhatsApp</h3>
-            <p className="opacity-75 text-sm">+34 600 000 000</p>
+            <p className="opacity-75 text-sm">+34 614 246 575</p>
           </a>
 
           {/* Phone */}
           <a
-            href="tel:+34600000000"
+            href="tel:+34614246575"
             className="p-8 bg-secondary-foreground/10 hover:bg-primary hover:text-primary-foreground rounded-lg transition-all duration-300 group"
           >
             <Phone className="w-8 h-8 mb-4 group-hover:scale-110 transition-transform" />
             <h3 className="text-xl font-semibold mb-2">Phone</h3>
-            <p className="opacity-75 text-sm">+34 600 000 000</p>
+            <p className="opacity-75 text-sm">+34 614 246 575</p>
           </a>
 
           {/* Email */}
@@ -43,7 +43,7 @@ export function ContactSection() {
           >
             <Mail className="w-8 h-8 mb-4 group-hover:scale-110 transition-transform" />
             <h3 className="text-xl font-semibold mb-2">Email</h3>
-            <p className="opacity-75 text-sm">info@towkeyeshomes.com</p>
+            <p className="opacity-75 text-sm">Sales@twokeyshomes.com</p>
           </a>
 
           {/* Location */}
@@ -60,7 +60,7 @@ export function ContactSection() {
             Prefer to chat? Click below to start a WhatsApp conversation with our team
           </p>
           <a
-            href="https://wa.me/34600000000"
+            href="https://wa.me/+34614246575"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-4 rounded-lg hover:opacity-90 transition-opacity font-semibold"
